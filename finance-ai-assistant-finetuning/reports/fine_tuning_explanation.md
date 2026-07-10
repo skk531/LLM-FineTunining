@@ -1,5 +1,3 @@
-# Fine-Tuning Concepts and Configuration Notes
-
 ## 1) Why full fine-tuning is expensive
 
 Full fine-tuning updates every model weight, which requires high GPU memory, longer training time, and higher compute cost. For modern LLMs this quickly becomes expensive for individual developers.
@@ -37,11 +35,11 @@ DPO (Direct Preference Optimization) trains the model using preference pairs (`c
 
 Fill the exact training values from your notebooks:
 
-- LoRA rank (`r`): TODO
-- LoRA alpha: TODO
-- LoRA dropout: TODO
-- Learning rate: TODO
-- Batch size: TODO
+- LoRA rank (`r`): 16
+- LoRA alpha: 32
+- LoRA dropout: 0.0
+- Learning rate: 2e-4 (non-instruction + SFT), 5e-6 (DPO)
+- Batch size: 1 per device (with gradient accumulation steps = 4)
 
 ## Practical Summary
 
