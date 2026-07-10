@@ -1,21 +1,27 @@
 import argparse
 import os
+import sys # Import sys
 
 import torch
 from peft import PeftModel
-from transformers import AutoModelForCausalLM, AutoTokenizer
+from unsloth import FastLanguageModel # NEW IMPORT
 
 
-def load_model(base_model: str, adapter_path: str | None = None):
-    tokenizer = AutoTokenizer.from_pretrained(base_model, use_fast=True)
+def load_model(base_model_name: str, adapter_path: str | None = None):
+    # These parameters are taken from the main notebook's global settings for consistency
+    _max_seq_length = 1024
+    _dtype = None  # Unsloth defaults to torch.float16 for GPUs if None
+    _load_in_4bit = True
+
+    model, tokenizer = FastLanguageModel.from_pretrained(
+        model_name=base_model_name,
+        max_seq_length=_max_seq_length,
+        dtype=_dtype,
+        load_in_4bit=_load_in_4bit,
+    )
+
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
-
-    model = AutoModelForCausalLM.from_pretrained(
-        base_model,
-        torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
-        device_map="auto",
-    )
 
     if adapter_path and os.path.exists(adapter_path):
         model = PeftModel.from_pretrained(model, adapter_path)
@@ -53,7 +59,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Run inference for finance fine-tuned assistant")
     parser.add_argument(
         "--base-model",
-        default=os.getenv("BASE_MODEL", "Qwen/Qwen2.5-0.5B-Instruct"),
+        default=os.getenv("BASE_MODEL", "unsloth/Qwen2.5-0.5B-Instruct-bnb-4bit"),
         help="Base model name or local path",
     )
     parser.add_argument(
@@ -71,10 +77,16 @@ def main() -> None:
         action="store_true",
         help="Run in interactive question-answer loop",
     )
-    args = parser.parse_args()
+
+    if 'ipykernel' in sys.modules:
+        args = parser.parse_args([])
+    else:
+        args = parser.parse_args()
 
     adapter_path = args.adapter_path if args.adapter_path else None
     tokenizer, model = load_model(args.base_model, adapter_path)
+
+    FastLanguageModel.for_inference(model) # NEW CALL
 
     if args.interactive:
         print("Finance AI Assistant is ready. Type 'exit' to quit.")
@@ -84,7 +96,7 @@ def main() -> None:
                 break
             print("Answer:", generate_answer(tokenizer, model, question))
     else:
-        print(generate_answer(tokenizer, model, args.question))
+        print("Answer:", generate_answer(tokenizer, model, args.question))
 
 
 if __name__ == "__main__":
