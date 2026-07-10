@@ -1,0 +1,1484 @@
+[DOMAIN: HR Policy Assistant]
+Employees receive annual paid leave, casual leave, sick leave, and bereavement leave based on company policy. Leave must be requested in the HR portal before the absence unless there is an emergency. Sick leave beyond three consecutive workdays may require medical documentation. Managers approve leave based on staffing needs and policy rules.
+
+[DOMAIN: HR Policy Assistant]
+In the HR Policy Assistant domain, questions about leave policy should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: HR Policy Assistant]
+For leave policy, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: HR Policy Assistant]
+Common user questions about leave policy often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: HR Policy Assistant]
+Enterprise support for leave policy requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: HR Policy Assistant]
+Employees are expected to record attendance accurately using the approved timekeeping system. Late arrivals, missed punches, and unplanned absences must be corrected through the HR portal with manager approval. Repeated attendance violations may trigger coaching, written warnings, or escalation.
+
+[DOMAIN: HR Policy Assistant]
+In the HR Policy Assistant domain, questions about attendance should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: HR Policy Assistant]
+For attendance, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: HR Policy Assistant]
+Common user questions about attendance often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: HR Policy Assistant]
+Enterprise support for attendance requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: HR Policy Assistant]
+Work from home may be approved for eligible roles when business needs, data security, and performance expectations can be met. Employees must remain reachable during working hours, attend scheduled meetings, and protect company information. Long-term remote work requires documented approval.
+
+[DOMAIN: HR Policy Assistant]
+In the HR Policy Assistant domain, questions about work from home should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: HR Policy Assistant]
+For work from home, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: HR Policy Assistant]
+Common user questions about work from home often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: HR Policy Assistant]
+Enterprise support for work from home requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: HR Policy Assistant]
+Business expenses such as approved travel, meals, training, and office supplies can be reimbursed when submitted with receipts within the required timeline. Expenses must be business-related, reasonable, and aligned with the company reimbursement policy.
+
+[DOMAIN: HR Policy Assistant]
+In the HR Policy Assistant domain, questions about reimbursement should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: HR Policy Assistant]
+For reimbursement, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: HR Policy Assistant]
+Common user questions about reimbursement often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: HR Policy Assistant]
+Enterprise support for reimbursement requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: HR Policy Assistant]
+New hires complete onboarding tasks including identity verification, tax forms, policy acknowledgements, system access requests, benefits enrollment, and required training. Managers are responsible for role-specific orientation and initial performance expectations.
+
+[DOMAIN: HR Policy Assistant]
+In the HR Policy Assistant domain, questions about onboarding should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: HR Policy Assistant]
+For onboarding, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: HR Policy Assistant]
+Common user questions about onboarding often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: HR Policy Assistant]
+Enterprise support for onboarding requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: HR Policy Assistant]
+Employees resigning from regular employment are expected to provide the required notice period, commonly two weeks unless their employment agreement states otherwise. Final pay, benefits, equipment return, and knowledge transfer are handled during offboarding.
+
+[DOMAIN: HR Policy Assistant]
+In the HR Policy Assistant domain, questions about notice period should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: HR Policy Assistant]
+For notice period, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: HR Policy Assistant]
+Common user questions about notice period often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: HR Policy Assistant]
+Enterprise support for notice period requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: HR Policy Assistant]
+Eligible employees may enroll in health insurance, dental, vision, retirement plans, paid time off, employee assistance programs, and other benefits during onboarding or open enrollment. Life events may allow mid-year changes.
+
+[DOMAIN: HR Policy Assistant]
+In the HR Policy Assistant domain, questions about benefits should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: HR Policy Assistant]
+For benefits, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: HR Policy Assistant]
+Common user questions about benefits often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: HR Policy Assistant]
+Enterprise support for benefits requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Customer Support Assistant]
+Refund eligibility depends on order status, return window, payment method, and product condition. Once a return is received and inspected, refunds are usually issued to the original payment method within the published processing timeline.
+
+[DOMAIN: Customer Support Assistant]
+In the Customer Support Assistant domain, questions about refunds should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Customer Support Assistant]
+For refunds, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Customer Support Assistant]
+Common user questions about refunds often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Customer Support Assistant]
+Enterprise support for refunds requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Customer Support Assistant]
+Customers can track orders from the order history page using the tracking number provided after shipment. If tracking has not updated, support should verify carrier status, fulfillment delay, and delivery address.
+
+[DOMAIN: Customer Support Assistant]
+In the Customer Support Assistant domain, questions about order tracking should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Customer Support Assistant]
+For order tracking, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Customer Support Assistant]
+Common user questions about order tracking often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Customer Support Assistant]
+Enterprise support for order tracking requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Customer Support Assistant]
+Product issues should be documented with order number, item details, photos or videos, and a description of the defect. Support can offer troubleshooting, replacement, repair, return, or refund depending on warranty and policy.
+
+[DOMAIN: Customer Support Assistant]
+In the Customer Support Assistant domain, questions about product issues should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Customer Support Assistant]
+For product issues, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Customer Support Assistant]
+Common user questions about product issues often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Customer Support Assistant]
+Enterprise support for product issues requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Customer Support Assistant]
+Orders can usually be cancelled before they enter packing or shipment. Once shipped, the customer may need to wait for delivery and start a return process instead.
+
+[DOMAIN: Customer Support Assistant]
+In the Customer Support Assistant domain, questions about cancellations should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Customer Support Assistant]
+For cancellations, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Customer Support Assistant]
+Common user questions about cancellations often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Customer Support Assistant]
+Enterprise support for cancellations requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Customer Support Assistant]
+Replacement eligibility depends on stock availability, warranty coverage, and confirmation of damage or defect. Support should confirm the shipping address and provide replacement tracking once processed.
+
+[DOMAIN: Customer Support Assistant]
+In the Customer Support Assistant domain, questions about replacement should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Customer Support Assistant]
+For replacement, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Customer Support Assistant]
+Common user questions about replacement often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Customer Support Assistant]
+Enterprise support for replacement requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Customer Support Assistant]
+Payment failures may occur due to bank declines, incorrect card details, expired cards, insufficient funds, or fraud checks. Customers should verify payment details or contact their bank if the issue persists.
+
+[DOMAIN: Customer Support Assistant]
+In the Customer Support Assistant domain, questions about payment issues should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Customer Support Assistant]
+For payment issues, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Customer Support Assistant]
+Common user questions about payment issues often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Customer Support Assistant]
+Enterprise support for payment issues requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Customer Support Assistant]
+Support escalates cases when policy exceptions, repeated failures, safety concerns, or high-value customer impact require supervisor review.
+
+[DOMAIN: Customer Support Assistant]
+In the Customer Support Assistant domain, questions about escalation should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Customer Support Assistant]
+For escalation, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Customer Support Assistant]
+Common user questions about escalation often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Customer Support Assistant]
+Enterprise support for escalation requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A savings account is one of the most fundamental banking products offered by financial institutions. It allows individuals to deposit money and earn interest over time. Savings accounts are designed for individuals who want to keep their money safe while earning a modest return. The interest rate on savings accounts typically ranges from 3% to 7% per annum, depending on the bank and the account balance maintained.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a savings account is one of the mos should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a savings account is one of the mos, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a savings account is one of the mos often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a savings account is one of the mos requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A current account, also known as a checking account, is primarily designed for businesses and individuals who perform high-frequency transactions. Unlike savings accounts, current accounts do not earn interest on deposits. However, they offer features such as overdraft facilities and unlimited transactions, making them suitable for commercial purposes. Businesses use current accounts to manage day-to-day operational expenses.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a current account also known as a c should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a current account also known as a c, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a current account also known as a c often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a current account also known as a c requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A fixed deposit (FD) is a financial instrument where you deposit a lump sum amount for a fixed period and earn interest at a predetermined rate. The interest rates on fixed deposits are generally higher than savings accounts and are locked in at the time of investment. Fixed deposits can range from 7 days to 10 years, and premature withdrawal may attract a penalty. FDs are considered one of the safest investment options in banking.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a fixed deposit fd is a financial i should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a fixed deposit fd is a financial i, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a fixed deposit fd is a financial i often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a fixed deposit fd is a financial i requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A recurring deposit (RD) is a savings product that allows customers to deposit a fixed amount every month for a predetermined period. At maturity, the customer receives the principal along with the accumulated interest. Recurring deposits are ideal for individuals who want to save regularly but do not have a lump sum to invest. The interest rates on RDs are similar to fixed deposits and are compounded quarterly.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a recurring deposit rd is a savings should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a recurring deposit rd is a savings, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a recurring deposit rd is a savings often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a recurring deposit rd is a savings requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Know Your Customer (KYC) is a mandatory process for banks to verify the identity of their customers. KYC helps banks prevent fraud, money laundering, and other financial crimes. The documents required for KYC include a government-issued photo ID such as an Aadhaar card, PAN card, passport, or voter ID, along with address proof. Banks are required by the Reserve Bank of India to complete KYC for all account holders.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about know your customer kyc is a mandato should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For know your customer kyc is a mandato, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about know your customer kyc is a mandato often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for know your customer kyc is a mandato requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A PAN (Permanent Account Number) card is a ten-digit alphanumeric identifier issued by the Income Tax Department of India. PAN is mandatory for all financial transactions above a certain threshold, including opening bank accounts, investing in mutual funds, and filing income tax returns. Banks require PAN card details for account opening and for reporting transactions to the tax authorities.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a pan permanent account number card should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a pan permanent account number card, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a pan permanent account number card often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a pan permanent account number card requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Net banking, also known as online banking or internet banking, allows customers to perform banking transactions through the internet. Customers can access their account details, transfer funds, pay bills, apply for loans, and manage their investments through the bank's website or mobile application. Net banking is available 24/7 and provides a convenient alternative to visiting a branch.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about net banking also known as online ba should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For net banking also known as online ba, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about net banking also known as online ba often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for net banking also known as online ba requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Mobile banking is the use of a mobile device to perform banking transactions. Mobile banking applications allow customers to check account balances, transfer funds, pay utility bills, recharge mobile phones, and apply for banking products. Most banks offer dedicated mobile apps for iOS and Android platforms. Mobile banking is secured through multi-factor authentication including OTP (One-Time Password) verification.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about mobile banking is the use of a mobi should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For mobile banking is the use of a mobi, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about mobile banking is the use of a mobi often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for mobile banking is the use of a mobi requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+NEFT (National Electronic Funds Transfer) is an electronic payment system that allows transfer of funds between bank accounts across India. NEFT transactions are processed in batches and typically take a few hours to complete. NEFT is available on all days including bank holidays and can be done through net banking, mobile banking, or bank branches. There is no minimum transaction limit for NEFT, and the charges vary by bank.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about neft national electronic funds tran should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For neft national electronic funds tran, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about neft national electronic funds tran often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for neft national electronic funds tran requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+RTGS (Real-Time Gross Settlement) is an electronic payment system for high-value fund transfers. Unlike NEFT, RTGS transactions are settled in real time and on a gross basis. The minimum transaction limit for RTGS is Rs. 2 lakh. RTGS is suitable for large business transactions where immediate transfer of funds is required. RTGS is available from 7 AM to 6 PM on weekdays and 7 AM to 1 PM on Saturdays.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about rtgs realtime gross settlement is a should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For rtgs realtime gross settlement is a, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about rtgs realtime gross settlement is a often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for rtgs realtime gross settlement is a requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+IMPS (Immediate Payment Service) is a 24/7 instant interbank electronic fund transfer service. IMPS allows transfer of funds instantly at any time, including holidays. The maximum transaction limit for IMPS is Rs. 5 lakh. IMPS can be initiated through mobile banking, net banking, or ATMs. IMPS uses the Mobile Money Identifier (MMID) and mobile number or account number and IFSC code for transfer.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about imps immediate payment service is a should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For imps immediate payment service is a, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about imps immediate payment service is a often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for imps immediate payment service is a requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+UPI (Unified Payments Interface) is a real-time payment system developed by the National Payments Corporation of India (NPCI). UPI allows customers to link multiple bank accounts to a single mobile application and perform fund transfers using a Virtual Payment Address (VPA) or UPI ID. UPI transactions can be done 24/7 and are instant. The daily transaction limit for UPI varies by bank but is generally Rs. 1 lakh.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about upi unified payments interface is a should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For upi unified payments interface is a, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about upi unified payments interface is a often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for upi unified payments interface is a requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A credit card is a payment card that allows the holder to borrow funds from the issuing bank to make purchases. Credit card holders receive a monthly statement and are required to pay the outstanding amount by the due date to avoid interest charges. Credit cards offer features such as reward points, cashback, travel benefits, and insurance coverage. The credit limit is determined by the bank based on the applicant's income and credit history.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a credit card is a payment card tha should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a credit card is a payment card tha, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a credit card is a payment card tha often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a credit card is a payment card tha requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A debit card is a payment card linked to the cardholder's bank account. When a purchase is made using a debit card, the amount is directly deducted from the linked bank account. Debit cards can be used for online and offline transactions, ATM withdrawals, and contactless payments. Debit cards are generally safer than carrying cash and are accepted at most merchant establishments.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a debit card is a payment card link should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a debit card is a payment card link, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a debit card is a payment card link often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a debit card is a payment card link requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A personal loan is an unsecured loan provided by banks and financial institutions for personal use such as medical expenses, travel, wedding, or home renovation. Personal loans do not require collateral and are approved based on the borrower's creditworthiness, income, and repayment capacity. Interest rates on personal loans range from 10% to 24% per annum, and the repayment tenure is typically 1 to 5 years.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a personal loan is an unsecured loa should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a personal loan is an unsecured loa, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a personal loan is an unsecured loa often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a personal loan is an unsecured loa requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A home loan, also known as a mortgage, is a secured loan used to purchase or construct a residential property. The property itself serves as collateral for the loan. Home loans are offered at both fixed and floating interest rates. The repayment tenure for home loans can be up to 30 years. Banks typically finance up to 80-90% of the property value, and the borrower must contribute the remaining amount as a down payment.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a home loan also known as a mortgag should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a home loan also known as a mortgag, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a home loan also known as a mortgag often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a home loan also known as a mortgag requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+An auto loan or car loan is a secured loan used to purchase a new or used vehicle. The vehicle serves as collateral for the loan. Auto loans are offered at competitive interest rates and can have repayment tenures of 1 to 7 years. Banks typically finance up to 85-90% of the vehicle's on-road price. The interest rate on auto loans depends on the borrower's credit score, income, and the type of vehicle being purchased.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about an auto loan or car loan is a secur should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For an auto loan or car loan is a secur, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about an auto loan or car loan is a secur often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for an auto loan or car loan is a secur requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+An education loan is a financial product that helps students fund their higher education expenses including tuition fees, accommodation, books, and other related costs. Education loans are offered for both domestic and international educational programs. The moratorium period for education loans typically extends until 6-12 months after course completion or employment, whichever is earlier. Interest rates on education loans range from 8% to 15% per annum.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about an education loan is a financial pr should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For an education loan is a financial pr, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about an education loan is a financial pr often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for an education loan is a financial pr requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+EMI (Equated Monthly Installment) is the fixed payment amount made by a borrower to the lender at a specified date each calendar month. EMI consists of both principal and interest components. In the initial period of loan repayment, the interest component is higher, and it gradually decreases as the loan is repaid. The EMI amount depends on the loan amount, interest rate, and repayment tenure.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about emi equated monthly installment is should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For emi equated monthly installment is, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about emi equated monthly installment is often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for emi equated monthly installment is requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A credit score is a numerical representation of an individual's creditworthiness, calculated based on their credit history. In India, CIBIL (Credit Information Bureau India Limited) is one of the major credit bureaus that maintains credit scores. A CIBIL score ranges from 300 to 900, with scores above 750 considered excellent. A high credit score increases the chances of loan approval and may result in better interest rates.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a credit score is a numerical repre should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a credit score is a numerical repre, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a credit score is a numerical repre often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a credit score is a numerical repre requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Credit utilization ratio is the percentage of available credit that is currently being used. It is calculated by dividing the total credit card balance by the total credit limit. A credit utilization ratio below 30% is considered healthy and has a positive impact on the credit score. High credit utilization indicates financial stress and can negatively affect the credit score.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about credit utilization ratio is the per should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For credit utilization ratio is the per, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about credit utilization ratio is the per often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for credit utilization ratio is the per requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Overdraft is a credit facility that allows account holders to withdraw more money than what is available in their account. The excess amount withdrawn is treated as a loan and attracts interest charges. Overdraft facilities are commonly offered on current accounts for businesses. Some banks also offer overdraft facilities against fixed deposits and other securities as collateral.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about overdraft is a credit facility that should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For overdraft is a credit facility that, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about overdraft is a credit facility that often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for overdraft is a credit facility that requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A mutual fund is a professionally managed investment vehicle that pools money from multiple investors to invest in a diversified portfolio of stocks, bonds, and other securities. Mutual funds are managed by Asset Management Companies (AMCs) and are regulated by SEBI (Securities and Exchange Board of India). Mutual funds offer different schemes such as equity funds, debt funds, hybrid funds, and index funds to suit different investor profiles.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a mutual fund is a professionally m should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a mutual fund is a professionally m, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a mutual fund is a professionally m often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a mutual fund is a professionally m requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+SIP (Systematic Investment Plan) is a method of investing in mutual funds where a fixed amount is invested at regular intervals, typically monthly. SIP allows investors to benefit from rupee cost averaging and the power of compounding. SIP investments can be started with as little as Rs. 500 per month. SIPs are a disciplined approach to long-term wealth creation and are suitable for investors with a long investment horizon.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about sip systematic investment plan is a should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For sip systematic investment plan is a, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about sip systematic investment plan is a often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for sip systematic investment plan is a requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Public Provident Fund (PPF) is a long-term savings instrument backed by the Government of India. PPF offers a guaranteed return with tax benefits under Section 80C of the Income Tax Act. The current interest rate on PPF is approximately 7.1% per annum, compounded annually. The lock-in period for PPF is 15 years, with the option to extend in blocks of 5 years. Partial withdrawals and loans against PPF are allowed after specific periods.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about public provident fund ppf is a long should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For public provident fund ppf is a long, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about public provident fund ppf is a long often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for public provident fund ppf is a long requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+National Savings Certificate (NSC) is a fixed-income investment scheme backed by the Government of India, available through post offices and authorized banks. NSC has a maturity period of 5 years and offers a fixed interest rate. Investments in NSC qualify for tax deductions under Section 80C of the Income Tax Act. NSC is a low-risk investment option suitable for conservative investors seeking guaranteed returns.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about national savings certificate nsc is should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For national savings certificate nsc is, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about national savings certificate nsc is often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for national savings certificate nsc is requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+GST (Goods and Services Tax) is applicable on banking services in India. GST is charged on banking fees, processing charges, and other financial services provided by banks. The current GST rate on most banking services is 18%. GST is included in the total amount charged to the customer's account for services such as ATM transaction failures, cheque bounce charges, and account maintenance fees.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about gst goods and services tax is appli should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For gst goods and services tax is appli, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about gst goods and services tax is appli often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for gst goods and services tax is appli requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+TDS (Tax Deducted at Source) is a mechanism used by the Income Tax Department to collect tax at the source of income. Banks deduct TDS on interest income earned from fixed deposits and other savings instruments. TDS is deducted at 10% if the interest income exceeds Rs. 40,000 per year (Rs. 50,000 for senior citizens). Customers can submit Form 15G/15H to prevent TDS deduction if their total income is below the taxable limit.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about tds tax deducted at source is a mec should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For tds tax deducted at source is a mec, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about tds tax deducted at source is a mec often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for tds tax deducted at source is a mec requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+IFSC (Indian Financial System Code) is an 11-character alphanumeric code used to identify bank branches in India. IFSC is required for electronic fund transfers through NEFT, RTGS, and IMPS. The first four characters represent the bank code, the fifth character is always '0', and the last six characters represent the branch code. IFSC can be found on the cheque book, passbook, or the bank's website.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about ifsc indian financial system code i should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For ifsc indian financial system code i, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about ifsc indian financial system code i often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for ifsc indian financial system code i requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+MICR (Magnetic Ink Character Recognition) is a 9-digit code printed on cheques using magnetic ink. MICR is used to identify the bank and branch for processing cheque transactions. The first 3 digits represent the city code, the next 3 digits represent the bank code, and the last 3 digits represent the branch code. MICR is printed below the account number on the bottom of a cheque leaf.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about micr magnetic ink character recogni should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For micr magnetic ink character recogni, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about micr magnetic ink character recogni often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for micr magnetic ink character recogni requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A cheque is a negotiable instrument issued by the account holder to authorize payment to a specific person or entity. Cheques can be of different types including bearer cheques, order cheques, crossed cheques, and account payee cheques. A cheque is valid for 3 months from the date of issuance. Stale cheques (cheques presented after 3 months) are returned by the bank and need to be reissued.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a cheque is a negotiable instrument should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a cheque is a negotiable instrument, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a cheque is a negotiable instrument often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a cheque is a negotiable instrument requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Cheque bounce occurs when a cheque presented for payment is returned by the bank due to insufficient funds or other discrepancies. Cheque bounce is a punishable offense under Section 138 of the Negotiable Instruments Act. The bank charges a penalty fee for cheque bounce, and the drawer may face legal action. It is important to ensure sufficient funds in the account before issuing a cheque.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about cheque bounce occurs when a cheque should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For cheque bounce occurs when a cheque, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about cheque bounce occurs when a cheque often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for cheque bounce occurs when a cheque requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Banking fraud includes unauthorized transactions, phishing, identity theft, card skimming, and online scams. Banks have implemented multiple security measures including two-factor authentication, transaction alerts, and fraud monitoring systems to protect customers. Customers should never share their PIN, CVV, OTP, or login credentials with anyone. In case of suspected fraud, customers should immediately contact the bank's customer care and block their cards.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about banking fraud includes unauthorized should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For banking fraud includes unauthorized, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about banking fraud includes unauthorized often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for banking fraud includes unauthorized requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Phishing is a type of cybercrime where fraudsters impersonate legitimate organizations to trick individuals into revealing sensitive information such as bank account details, passwords, and OTPs. Phishing attacks are typically carried out through emails, SMS messages, or fake websites that look identical to official banking portals. Banks never ask for account details, passwords, or OTPs through email or phone calls.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about phishing is a type of cybercrime wh should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For phishing is a type of cybercrime wh, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about phishing is a type of cybercrime wh often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for phishing is a type of cybercrime wh requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Card skimming is a technique used by fraudsters to capture card information from ATMs or point-of-sale terminals. Criminals install skimming devices on ATMs that read the magnetic stripe data of debit or credit cards. Customers should inspect ATMs for any suspicious devices before using them and cover the keypad while entering the PIN. Banks have introduced EMV chip cards that are more secure than magnetic stripe cards.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about card skimming is a technique used b should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For card skimming is a technique used b, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about card skimming is a technique used b often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for card skimming is a technique used b requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Loan prepayment refers to the repayment of a loan amount before the scheduled maturity date. Prepayment can be either partial (paying a portion of the outstanding principal) or full (paying the entire outstanding amount). Prepaying a loan reduces the total interest outgo and helps become debt-free faster. Some banks charge a prepayment penalty, while others offer zero prepayment charges for floating-rate loans.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about loan prepayment refers to the repay should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For loan prepayment refers to the repay, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about loan prepayment refers to the repay often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for loan prepayment refers to the repay requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Loan restructuring is a process where the terms of an existing loan are modified to provide relief to borrowers who are facing financial difficulties. Loan restructuring may involve extending the repayment tenure, reducing the interest rate, or converting unpaid interest into principal. Banks undertake loan restructuring to avoid loan defaults and NPAs (Non-Performing Assets). The Reserve Bank of India provides guidelines for loan restructuring.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about loan restructuring is a process whe should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For loan restructuring is a process whe, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about loan restructuring is a process whe often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for loan restructuring is a process whe requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+NPA (Non-Performing Asset) refers to a loan or advance that has not generated income for the bank for a period of 90 days or more. When a borrower fails to make interest or principal payments for 90 days, the loan is classified as an NPA. Banks are required to maintain provisions for NPAs, which affects their profitability. Banks take legal actions to recover NPAs through mechanisms such as SARFAESI Act and Debt Recovery Tribunals.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about npa nonperforming asset refers to a should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For npa nonperforming asset refers to a, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about npa nonperforming asset refers to a often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for npa nonperforming asset refers to a requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+The Reserve Bank of India (RBI) is the central bank of India, established on April 1, 1935. RBI is responsible for regulating and supervising the banking sector, formulating monetary policy, managing foreign exchange, and issuing currency notes. RBI sets the repo rate, reverse repo rate, and other key policy rates that influence interest rates across the banking system. RBI also regulates payment and settlement systems in India.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about the reserve bank of india rbi is th should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For the reserve bank of india rbi is th, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about the reserve bank of india rbi is th often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for the reserve bank of india rbi is th requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Repo rate is the rate at which the Reserve Bank of India lends money to commercial banks. When the repo rate is increased, borrowing becomes expensive for banks, which in turn raises interest rates for customers. When the repo rate is decreased, borrowing becomes cheaper, and banks may lower their lending rates. Changes in the repo rate affect EMIs on loans, especially floating-rate loans.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about repo rate is the rate at which the should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For repo rate is the rate at which the, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about repo rate is the rate at which the often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for repo rate is the rate at which the requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+SEBI (Securities and Exchange Board of India) is the regulatory authority for securities markets in India. SEBI regulates stock exchanges, brokers, mutual funds, and other market participants. SEBI aims to protect the interests of investors and promote the development of the securities market. SEBI has established regulations for disclosure requirements, insider trading, and market manipulation to ensure fair and transparent markets.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about sebi securities and exchange board should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For sebi securities and exchange board, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about sebi securities and exchange board often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for sebi securities and exchange board requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+NSE (National Stock Exchange) and BSE (Bombay Stock Exchange) are the two primary stock exchanges in India. NSE and BSE provide a platform for buying and selling securities such as shares, bonds, and derivatives. The NIFTY 50 index tracks the performance of 50 large-cap companies listed on NSE, while the SENSEX tracks 30 companies listed on BSE. Investors can participate in the stock market through Demat accounts and trading accounts.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about nse national stock exchange and bse should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For nse national stock exchange and bse, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about nse national stock exchange and bse often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for nse national stock exchange and bse requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A Demat account (Dematerialized account) is an account that holds securities such as shares, bonds, and mutual funds in electronic form. Demat accounts eliminate the need for physical share certificates and make it easier to trade and transfer securities. A Demat account is operated by depositories such as NSDL (National Securities Depository Limited) and CDSL (Central Depository Services Limited). A trading account linked to the Demat account is required to buy and sell securities.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a demat account dematerialized acco should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a demat account dematerialized acco, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a demat account dematerialized acco often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a demat account dematerialized acco requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Foreign exchange (Forex) refers to the conversion of one currency into another. Banks offer foreign exchange services including currency exchange, travel cards, foreign currency drafts, and wire transfers. The exchange rate between two currencies is determined by the forex market and fluctuates based on supply and demand. Banks add a margin to the market exchange rate when providing forex services to customers.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about foreign exchange forex refers to th should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For foreign exchange forex refers to th, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about foreign exchange forex refers to th often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for foreign exchange forex refers to th requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+SWIFT (Society for Worldwide Interbank Financial Telecommunication) is a global messaging network used by banks to securely transmit financial information and conduct international money transfers. Each bank participating in the SWIFT network is assigned a unique SWIFT code (also known as BIC - Bank Identifier Code). SWIFT codes are used to identify banks for international wire transfers and correspondent banking.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about swift society for worldwide interba should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For swift society for worldwide interba, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about swift society for worldwide interba often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for swift society for worldwide interba requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A nominee is a person designated by the account holder to receive the account balance and assets in the event of the account holder's death. Nomination is a safety measure that ensures smooth transfer of assets to the designated person without legal complications. Customers can add or change nominees for their bank accounts, fixed deposits, and other financial products at any time. Nomination does not override a will.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a nominee is a person designated by should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a nominee is a person designated by, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a nominee is a person designated by often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a nominee is a person designated by requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Senior citizens are offered preferential banking services including higher interest rates on fixed deposits (typically 0.25% to 0.75% higher than regular rates), free or concessional service charges, and dedicated banking counters. Senior citizens above 60 years of age are eligible for these benefits. Banks also offer doorstep banking services for senior citizens and differently-abled customers who cannot visit branches.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about senior citizens are offered prefere should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For senior citizens are offered prefere, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about senior citizens are offered prefere often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for senior citizens are offered prefere requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+A joint account is a bank account held by two or more individuals. Joint accounts can be operated on either an "Either or Survivor" (EOS) basis where any one account holder can operate the account independently, or a "Joint" basis where all account holders must sign for transactions. Joint accounts are commonly used by spouses, business partners, and family members. In the event of death of one account holder, the funds can be accessed by the surviving account holder(s).
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about a joint account is a bank account h should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For a joint account is a bank account h, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about a joint account is a bank account h often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for a joint account is a bank account h requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+Interest rates on loans can be either fixed or floating. A fixed interest rate remains constant throughout the loan tenure, providing predictability in EMI payments. A floating interest rate is linked to a benchmark rate such as MCLR (Marginal Cost of Funds based Lending Rate) or RBI's repo rate, and changes periodically as the benchmark rate changes. Floating rate loans can result in lower or higher EMIs depending on market conditions.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about interest rates on loans can be eith should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For interest rates on loans can be eith, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about interest rates on loans can be eith often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for interest rates on loans can be eith requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Finance FAQ Assistant]
+MCLR (Marginal Cost of Funds based Lending Rate) is the minimum lending rate below which banks are not permitted to lend, as mandated by the RBI. MCLR is determined based on the bank's cost of funds and other factors. All variable-rate loans sanctioned after April 2016 are linked to MCLR. When the RBI changes the repo rate, MCLR-linked loans eventually get repriced at the next reset date.
+
+[DOMAIN: Finance FAQ Assistant]
+In the Finance FAQ Assistant domain, questions about mclr marginal cost of funds based l should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Finance FAQ Assistant]
+For mclr marginal cost of funds based l, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Finance FAQ Assistant]
+Common user questions about mclr marginal cost of funds based l often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Finance FAQ Assistant]
+Enterprise support for mclr marginal cost of funds based l requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Patients can schedule, reschedule, or cancel appointments through the patient portal, phone line, or front desk. Urgent symptoms should be triaged by clinical staff rather than handled as routine scheduling.
+
+[DOMAIN: Healthcare FAQ Assistant]
+In the Healthcare FAQ Assistant domain, questions about appointments should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Healthcare FAQ Assistant]
+For appointments, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Common user questions about appointments often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Enterprise support for appointments requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Medication instructions should be followed exactly as prescribed. Patients should ask a licensed clinician or pharmacist before changing dosage, stopping treatment, or combining medications.
+
+[DOMAIN: Healthcare FAQ Assistant]
+In the Healthcare FAQ Assistant domain, questions about medications should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Healthcare FAQ Assistant]
+For medications, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Common user questions about medications often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Enterprise support for medications requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Lab results are usually posted to the patient portal after review. Abnormal or urgent findings may require direct provider follow-up. Patients should not interpret results without clinical context.
+
+[DOMAIN: Healthcare FAQ Assistant]
+In the Healthcare FAQ Assistant domain, questions about lab results should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Healthcare FAQ Assistant]
+For lab results, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Common user questions about lab results often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Enterprise support for lab results requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Insurance coverage depends on plan rules, network status, authorization requirements, deductibles, copays, and medical necessity. Patients should verify benefits with their insurer before non-emergency services.
+
+[DOMAIN: Healthcare FAQ Assistant]
+In the Healthcare FAQ Assistant domain, questions about insurance should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Healthcare FAQ Assistant]
+For insurance, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Common user questions about insurance often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Enterprise support for insurance requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Protected health information must be handled according to HIPAA or applicable privacy rules. Staff should verify patient identity before discussing records and avoid sharing sensitive information through unsecured channels.
+
+[DOMAIN: Healthcare FAQ Assistant]
+In the Healthcare FAQ Assistant domain, questions about privacy should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Healthcare FAQ Assistant]
+For privacy, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Common user questions about privacy often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Enterprise support for privacy requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Healthcare FAQ Assistant]
+General symptom information can support education but does not replace medical diagnosis. Severe chest pain, trouble breathing, stroke symptoms, uncontrolled bleeding, or loss of consciousness require emergency care.
+
+[DOMAIN: Healthcare FAQ Assistant]
+In the Healthcare FAQ Assistant domain, questions about symptoms should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Healthcare FAQ Assistant]
+For symptoms, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Common user questions about symptoms often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Enterprise support for symptoms requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Preventive care includes vaccinations, annual wellness visits, screenings, lifestyle counseling, and chronic disease monitoring based on age, risk factors, and clinical guidelines.
+
+[DOMAIN: Healthcare FAQ Assistant]
+In the Healthcare FAQ Assistant domain, questions about preventive care should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Healthcare FAQ Assistant]
+For preventive care, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Common user questions about preventive care often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Healthcare FAQ Assistant]
+Enterprise support for preventive care requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Contracts define rights, obligations, timelines, payment terms, confidentiality, termination, dispute resolution, and liability. Users should review definitions and obligations carefully before signing.
+
+[DOMAIN: Legal Document FAQ Assistant]
+In the Legal Document FAQ Assistant domain, questions about contracts should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Legal Document FAQ Assistant]
+For contracts, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Common user questions about contracts often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Enterprise support for contracts requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Legal Document FAQ Assistant]
+A non-disclosure agreement protects confidential information shared between parties. It should define confidential information, permitted use, exclusions, duration, return or destruction obligations, and remedies.
+
+[DOMAIN: Legal Document FAQ Assistant]
+In the Legal Document FAQ Assistant domain, questions about nda should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Legal Document FAQ Assistant]
+For nda, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Common user questions about nda often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Enterprise support for nda requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Termination clauses explain how an agreement may end, required notice, cure periods, payment obligations, survival clauses, and post-termination duties.
+
+[DOMAIN: Legal Document FAQ Assistant]
+In the Legal Document FAQ Assistant domain, questions about termination should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Legal Document FAQ Assistant]
+For termination, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Common user questions about termination often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Enterprise support for termination requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Liability clauses allocate risk between parties. They may include limitation of liability, indemnification, exclusions, caps, and responsibility for third-party claims.
+
+[DOMAIN: Legal Document FAQ Assistant]
+In the Legal Document FAQ Assistant domain, questions about liability should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Legal Document FAQ Assistant]
+For liability, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Common user questions about liability often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Enterprise support for liability requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Employment agreements commonly cover role, compensation, benefits, confidentiality, intellectual property, restrictive covenants, termination, and dispute processes.
+
+[DOMAIN: Legal Document FAQ Assistant]
+In the Legal Document FAQ Assistant domain, questions about employment agreement should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Legal Document FAQ Assistant]
+For employment agreement, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Common user questions about employment agreement often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Enterprise support for employment agreement requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Lease documents define rent, term, security deposit, maintenance duties, late fees, use restrictions, renewal, default, and move-out obligations.
+
+[DOMAIN: Legal Document FAQ Assistant]
+In the Legal Document FAQ Assistant domain, questions about lease should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Legal Document FAQ Assistant]
+For lease, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Common user questions about lease often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Enterprise support for lease requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Legal information should be treated as general guidance and not a substitute for advice from a qualified attorney who can review facts and jurisdiction.
+
+[DOMAIN: Legal Document FAQ Assistant]
+In the Legal Document FAQ Assistant domain, questions about disclaimer should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Legal Document FAQ Assistant]
+For disclaimer, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Common user questions about disclaimer often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Legal Document FAQ Assistant]
+Enterprise support for disclaimer requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Course Doubt Assistant]
+A course assistant explains concepts step by step, checks prerequisites, provides examples, and encourages the learner to solve practice problems rather than simply memorizing answers.
+
+[DOMAIN: Course Doubt Assistant]
+In the Course Doubt Assistant domain, questions about concept explanation should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Course Doubt Assistant]
+For concept explanation, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Course Doubt Assistant]
+Common user questions about concept explanation often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Course Doubt Assistant]
+Enterprise support for concept explanation requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Course Doubt Assistant]
+Assignment guidance should clarify requirements, outline an approach, identify mistakes, and help the student understand the solution without promoting plagiarism.
+
+[DOMAIN: Course Doubt Assistant]
+In the Course Doubt Assistant domain, questions about assignments should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Course Doubt Assistant]
+For assignments, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Course Doubt Assistant]
+Common user questions about assignments often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Course Doubt Assistant]
+Enterprise support for assignments requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Course Doubt Assistant]
+Programming doubts are resolved by reading the error, isolating the failing line, checking inputs and outputs, and explaining the fix with a small reproducible example.
+
+[DOMAIN: Course Doubt Assistant]
+In the Course Doubt Assistant domain, questions about programming should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Course Doubt Assistant]
+For programming, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Course Doubt Assistant]
+Common user questions about programming often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Course Doubt Assistant]
+Enterprise support for programming requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Course Doubt Assistant]
+Math help should show assumptions, formulas, intermediate steps, and final answers. It should also explain why each step is valid.
+
+[DOMAIN: Course Doubt Assistant]
+In the Course Doubt Assistant domain, questions about math should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Course Doubt Assistant]
+For math, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Course Doubt Assistant]
+Common user questions about math often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Course Doubt Assistant]
+Enterprise support for math requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Course Doubt Assistant]
+Exam preparation includes reviewing learning objectives, practicing representative questions, identifying weak areas, and building a study plan with spaced repetition.
+
+[DOMAIN: Course Doubt Assistant]
+In the Course Doubt Assistant domain, questions about exam preparation should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Course Doubt Assistant]
+For exam preparation, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Course Doubt Assistant]
+Common user questions about exam preparation often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Course Doubt Assistant]
+Enterprise support for exam preparation requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Course Doubt Assistant]
+Project guidance includes scope definition, architecture, milestones, testing, documentation, and presentation preparation.
+
+[DOMAIN: Course Doubt Assistant]
+In the Course Doubt Assistant domain, questions about project work should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Course Doubt Assistant]
+For project work, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Course Doubt Assistant]
+Common user questions about project work often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Course Doubt Assistant]
+Enterprise support for project work requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: Course Doubt Assistant]
+Helpful feedback is specific, actionable, and tied to the rubric. It should highlight strengths, gaps, and next steps.
+
+[DOMAIN: Course Doubt Assistant]
+In the Course Doubt Assistant domain, questions about feedback should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: Course Doubt Assistant]
+For feedback, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: Course Doubt Assistant]
+Common user questions about feedback often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: Course Doubt Assistant]
+Enterprise support for feedback requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Product compatibility depends on model number, dimensions, power requirements, operating system, accessories, and manufacturer specifications. Support should confirm the exact product version.
+
+[DOMAIN: E-commerce Product Support Assistant]
+In the E-commerce Product Support Assistant domain, questions about product compatibility should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: E-commerce Product Support Assistant]
+For product compatibility, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Common user questions about product compatibility often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Enterprise support for product compatibility requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Warranty coverage varies by product category, purchase date, seller, defect type, and usage conditions. Accidental damage or misuse may be excluded unless a protection plan applies.
+
+[DOMAIN: E-commerce Product Support Assistant]
+In the E-commerce Product Support Assistant domain, questions about warranty should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: E-commerce Product Support Assistant]
+For warranty, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Common user questions about warranty often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Enterprise support for warranty requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Return eligibility depends on the return window, item condition, packaging, and category restrictions. Some items may be final sale or require special handling.
+
+[DOMAIN: E-commerce Product Support Assistant]
+In the E-commerce Product Support Assistant domain, questions about returns should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: E-commerce Product Support Assistant]
+For returns, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Common user questions about returns often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Enterprise support for returns requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Installation support should provide step-by-step setup instructions, required tools, safety precautions, and troubleshooting for common setup errors.
+
+[DOMAIN: E-commerce Product Support Assistant]
+In the E-commerce Product Support Assistant domain, questions about installation should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: E-commerce Product Support Assistant]
+For installation, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Common user questions about installation often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Enterprise support for installation requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Shipping questions include delivery timelines, carrier delays, lost packages, address changes, and delivery exceptions. Support should verify order status before promising outcomes.
+
+[DOMAIN: E-commerce Product Support Assistant]
+In the E-commerce Product Support Assistant domain, questions about shipping should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: E-commerce Product Support Assistant]
+For shipping, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Common user questions about shipping often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Enterprise support for shipping requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Product recommendations should consider customer needs, budget, compatibility, performance expectations, warranty, and available inventory.
+
+[DOMAIN: E-commerce Product Support Assistant]
+In the E-commerce Product Support Assistant domain, questions about product recommendations should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: E-commerce Product Support Assistant]
+For product recommendations, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Common user questions about product recommendations often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Enterprise support for product recommendations requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Damaged items should be documented with photos of the product, packaging, shipping label, and order number so support can process replacement or refund.
+
+[DOMAIN: E-commerce Product Support Assistant]
+In the E-commerce Product Support Assistant domain, questions about damaged item should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: E-commerce Product Support Assistant]
+For damaged item, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Common user questions about damaged item often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: E-commerce Product Support Assistant]
+Enterprise support for damaged item requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: IT Helpdesk Assistant]
+Password resets require identity verification and should use approved self-service or helpdesk workflows. Users should never share passwords or MFA codes.
+
+[DOMAIN: IT Helpdesk Assistant]
+In the IT Helpdesk Assistant domain, questions about password reset should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: IT Helpdesk Assistant]
+For password reset, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: IT Helpdesk Assistant]
+Common user questions about password reset often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: IT Helpdesk Assistant]
+Enterprise support for password reset requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: IT Helpdesk Assistant]
+VPN access requires an active account, approved device posture, MFA, and correct VPN profile. Connection issues may involve expired credentials, network restrictions, or client version mismatch.
+
+[DOMAIN: IT Helpdesk Assistant]
+In the IT Helpdesk Assistant domain, questions about vpn should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: IT Helpdesk Assistant]
+For vpn, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: IT Helpdesk Assistant]
+Common user questions about vpn often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: IT Helpdesk Assistant]
+Enterprise support for vpn requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: IT Helpdesk Assistant]
+Email access problems may be caused by password expiry, MFA failure, mailbox licensing, network issues, or device configuration. Helpdesk should verify account status and recent security alerts.
+
+[DOMAIN: IT Helpdesk Assistant]
+In the IT Helpdesk Assistant domain, questions about email access should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: IT Helpdesk Assistant]
+For email access, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: IT Helpdesk Assistant]
+Common user questions about email access often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: IT Helpdesk Assistant]
+Enterprise support for email access requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: IT Helpdesk Assistant]
+Software installation should follow approved catalog or endpoint management processes. Admin rights should be limited and exceptions documented.
+
+[DOMAIN: IT Helpdesk Assistant]
+In the IT Helpdesk Assistant domain, questions about software installation should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: IT Helpdesk Assistant]
+For software installation, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: IT Helpdesk Assistant]
+Common user questions about software installation often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: IT Helpdesk Assistant]
+Enterprise support for software installation requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: IT Helpdesk Assistant]
+Hardware incidents include laptop failure, battery problems, monitor issues, keyboard faults, and docking station problems. Troubleshooting starts with power, cables, updates, and known-good peripherals.
+
+[DOMAIN: IT Helpdesk Assistant]
+In the IT Helpdesk Assistant domain, questions about hardware issue should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: IT Helpdesk Assistant]
+For hardware issue, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: IT Helpdesk Assistant]
+Common user questions about hardware issue often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: IT Helpdesk Assistant]
+Enterprise support for hardware issue requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: IT Helpdesk Assistant]
+Incident priority is based on impact and urgency. Enterprise outages and security incidents receive higher priority than individual service requests.
+
+[DOMAIN: IT Helpdesk Assistant]
+In the IT Helpdesk Assistant domain, questions about incident priority should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: IT Helpdesk Assistant]
+For incident priority, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: IT Helpdesk Assistant]
+Common user questions about incident priority often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: IT Helpdesk Assistant]
+Enterprise support for incident priority requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
+
+[DOMAIN: IT Helpdesk Assistant]
+Users must report phishing, suspicious login prompts, lost devices, and malware warnings immediately. Helpdesk should preserve evidence and follow security escalation procedures.
+
+[DOMAIN: IT Helpdesk Assistant]
+In the IT Helpdesk Assistant domain, questions about security should be answered with policy-aware, professional, and practical language. The assistant should explain the rule, list the normal process, mention required documentation, and advise escalation when the request is outside standard policy.
+
+[DOMAIN: IT Helpdesk Assistant]
+For security, the assistant should avoid vague statements. It should ask for or reference key details such as account status, eligibility, timelines, documents, approval flow, ownership, and next steps. Responses should be concise, safe, and aligned to organizational guidelines.
+
+[DOMAIN: IT Helpdesk Assistant]
+Common user questions about security often involve eligibility, exceptions, timelines, required documents, and what to do when the standard process fails. A good assistant response identifies the likely path, explains limitations, and suggests contacting the responsible team for case-specific decisions.
+
+[DOMAIN: IT Helpdesk Assistant]
+Enterprise support for security requires clear tone, accurate terminology, and risk awareness. The assistant should not invent approvals, guarantees, legal conclusions, medical diagnoses, or financial promises. It should provide general guidance and escalate sensitive cases to the proper professional.
