@@ -1,0 +1,11 @@
+unsloth[colab-new]
+trl>=0.18,<0.26
+transformers>=4.51,<5
+peft
+torch
+datasets
+accelerate
+bitsandbytes
+ipywidgets
+pandas
+matplotlib
