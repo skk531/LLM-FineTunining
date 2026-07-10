@@ -40,6 +40,7 @@ Fill the exact training values from your notebooks:
 - LoRA dropout: 0.0
 - Learning rate: 2e-4 (non-instruction + SFT), 5e-6 (DPO)
 - Batch size: 1 per device (with gradient accumulation steps = 4)
+- Epochs or max steps: 1 epoch (non-instruction), 2 epochs (SFT), 1 epoch (stage-3 SFT warm-start), 1 epoch (DPO)
 
 ## Practical Summary
 
